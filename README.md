@@ -6,7 +6,7 @@ Welcome to the AI Virtual Mouse Project repository. This project leverages compu
 
 You can view the complete project documentation by clicking the link below:
 
-[View Project Documentation](VirtualMouse-Project.pdf)
+[View Project Documentation]<a href = "https://drive.google.com/file/d/1_491x1cNAXTbUhm9KXsJBBoB5kWjEBaU/view?usp=sharing">(VirtualMouse-Project.pdf )</a>
 
 ## Overview
 The AI Virtual Mouse project allows users to control their computer mouse using hand gestures, eliminating the need for physical input devices.
@@ -44,5 +44,5 @@ The AI Virtual Mouse project allows users to control their computer mouse using 
 - PyCharm IDE
 - Required Python packages: OpenCV, Mediapipe, NumPy, Autopy
 
-For detailed setup instructions and more information, refer to the [Project Documentation]<<a href = "https://drive.google.com/file/d/1_491x1cNAXTbUhm9KXsJBBoB5kWjEBaU/view?usp=sharing">(VirtualMouse-Project.pdf )</a>.
+For detailed setup instructions and more information, refer to the [Project Documentation]<a href = "https://drive.google.com/file/d/1_491x1cNAXTbUhm9KXsJBBoB5kWjEBaU/view?usp=sharing">(VirtualMouse-Project.pdf )</a>.
 

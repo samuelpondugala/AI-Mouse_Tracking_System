@@ -44,5 +44,5 @@ The AI Virtual Mouse project allows users to control their computer mouse using 
 - PyCharm IDE
 - Required Python packages: OpenCV, Mediapipe, NumPy, Autopy
 
-For detailed setup instructions and more information, refer to the [Project Documentation](VirtualMouse-Project.pdf).
+For detailed setup instructions and more information, refer to the [Project Documentation]<<a href = "https://drive.google.com/file/d/1_491x1cNAXTbUhm9KXsJBBoB5kWjEBaU/view?usp=sharing">(VirtualMouse-Project.pdf )</a>.
 
